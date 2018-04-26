@@ -1,0 +1,4 @@
+#Thu Apr 26 16:50:19 CDT 2018
+base.0=C\:\\Users\\emmxav12\\Desktop\\Download\\Software Development Kits\\Android ASCII 2.4 SDK v1.2.0\\Sample Code\\Trigger\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

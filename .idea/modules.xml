@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APITestbed/APITestbed.iml" filepath="$PROJECT_DIR$/APITestbed/APITestbed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android ASCII 2.4 SDK v1.2.0.iml" filepath="$PROJECT_DIR$/Android ASCII 2.4 SDK v1.2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeviceList/DeviceList.iml" filepath="$PROJECT_DIR$/DeviceList/DeviceList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample Code/Inventory/Inventory.iml" filepath="$PROJECT_DIR$/Sample Code/Inventory/Inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample Code/LicenceKey/LicenceKey.iml" filepath="$PROJECT_DIR$/Sample Code/LicenceKey/LicenceKey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample Code/ReadWrite/ReadWrite.iml" filepath="$PROJECT_DIR$/Sample Code/ReadWrite/ReadWrite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rfid.AsciiProtocol/Rfid.AsciiProtocol.iml" filepath="$PROJECT_DIR$/Rfid.AsciiProtocol/Rfid.AsciiProtocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample Code/Sample Code.iml" filepath="$PROJECT_DIR$/Sample Code/Sample Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample Code/Trigger/Trigger.iml" filepath="$PROJECT_DIR$/Sample Code/Trigger/Trigger.iml" />
+    </modules>
+  </component>
+</project>

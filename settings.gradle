@@ -1,0 +1,8 @@
+include ':Sample Code:Trigger'
+include ':Sample Code:Inventory'
+include ':Sample Code:ReadWrite'
+include ':Sample Code:LicenceKey'
+include ':DeviceList'
+include ':Rfid.AsciiProtocol'
+
+include ':APITestbed'
